@@ -1,2 +1,2 @@
 test:PF3V3NN3
-admin
+admin:PF3V3NN3
